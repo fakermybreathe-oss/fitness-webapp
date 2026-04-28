@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <rect width="400" height="400" fill="white"/>
+  <!-- Base frame -->
+  <rect x="100" y="320" width="200" height="20" rx="4" fill="#374151"/>
+  <!-- Side rails -->
+  <rect x="100" y="300" width="15" height="25" rx="2" fill="#4B5563"/>
+  <rect x="285" y="300" width="15" height="25" rx="2" fill="#4B5563"/>
+  <!-- Steps -->
+  <rect x="120" y="280" width="80" height="20" rx="3" fill="#6B7280"/>
+  <rect x="200" y="260" width="80" height="20" rx="3" fill="#9CA3AF"/>
+  <!-- Handlebars -->
+  <rect x="170" y="80" width="60" height="15" rx="4" fill="#374151"/>
+  <rect x="150" y="75" width="25" height="25" rx="6" fill="#4B5563"/>
+  <rect x="225" y="75" width="25" height="25" rx="6" fill="#4B5563"/>
+  <!-- Display panel -->
+  <rect x="170" y="120" width="60" height="40" rx="4" fill="#E5E7EB"/>
+  <rect x="175" y="125" width="50" height="30" rx="2" fill="#6B7280"/>
+  <text x="200" y="370" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#374151">踏步机</text>
+</svg>

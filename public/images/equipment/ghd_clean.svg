@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <rect width="400" height="400" fill="white"/>
+  <!-- Base frame -->
+  <rect x="100" y="300" width="200" height="20" rx="4" fill="#374151"/>
+  <!-- Foot platform angled -->
+  <rect x="120" y="240" width="160" height="50" rx="6" fill="#4B5563"/>
+  <!-- Leg pad -->
+  <rect x="140" y="140" width="120" height="40" rx="8" fill="#6B7280"/>
+  <!-- Pivot arm -->
+  <rect x="200" y="100" width="15" height="140" rx="3" fill="#9CA3AF"/>
+  <!-- Foot holders -->
+  <rect x="130" y="250" width="30" height="25" rx="4" fill="#374151"/>
+  <rect x="240" y="250" width="30" height="25" rx="4" fill="#374151"/>
+  <text x="200" y="370" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#374151">GHD机</text>
+</svg>

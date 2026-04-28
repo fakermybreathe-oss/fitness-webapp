@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <rect width="400" height="400" fill="white"/>
+  <!-- Frame -->
+  <rect x="80" y="280" width="240" height="15" rx="3" fill="#374151"/>
+  <!-- Seat post -->
+  <rect x="160" y="150" width="20" height="130" rx="4" fill="#4B5563"/>
+  <!-- Seat -->
+  <rect x="130" y="140" width="80" height="25" rx="8" fill="#6B7280"/>
+  <!-- Handlebars -->
+  <rect x="160" y="60" width="80" height="12" rx="4" fill="#374151"/>
+  <rect x="140" y="55" width="20" height="20" rx="6" fill="#4B5563"/>
+  <rect x="240" y="55" width="20" height="20" rx="6" fill="#4B5563"/>
+  <!-- Flywheel -->
+  <circle cx="300" cy="250" r="40" fill="#E5E7EB"/>
+  <circle cx="300" cy="250" r="30" fill="#9CA3AF"/>
+  <!-- Resistance wheel -->
+  <circle cx="100" cy="250" r="35" fill="#6B7280"/>
+  <circle cx="100" cy="250" r="20" fill="#4B5563"/>
+  <text x="200" y="370" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#374151">动感单车</text>
+</svg>

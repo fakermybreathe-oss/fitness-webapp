@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <rect width="400" height="400" fill="white"/>
+  <!-- Back pad -->
+  <rect x="80" y="140" width="240" height="120" rx="15" fill="#6B7280"/>
+  <!-- Seat -->
+  <rect x="120" y="260" width="160" height="30" rx="8" fill="#9CA3AF"/>
+  <!-- Arm pads -->
+  <path d="M60 180 Q40 200 60 240 L80 240 Q60 200 60 180Z" fill="#4B5563"/>
+  <path d="M340 180 Q360 200 340 240 L320 240 Q340 200 340 180Z" fill="#4B5563"/>
+  <!-- Adjustment handles -->
+  <circle cx="300" cy="180" r="12" fill="#374151"/>
+  <circle cx="300" cy="180" r="6" fill="#6B7280"/>
+  <text x="200" y="370" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#374151">蝴蝶机</text>
+</svg>

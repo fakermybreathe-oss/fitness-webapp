@@ -1,0 +1,16 @@
+- generic [ref=e87]:
+  - generic [ref=e88]:
+    - heading "欢迎回来" [level=1] [ref=e89]
+    - paragraph [ref=e90]: 登录继续你的健身计划
+  - generic [ref=e91]:
+    - generic [ref=e92]:
+      - generic [ref=e93]: 邮箱
+      - textbox "请输入邮箱" [ref=e94]
+    - generic [ref=e95]:
+      - generic [ref=e96]: 密码
+      - textbox "请输入密码" [ref=e97]
+    - button "登录" [ref=e98]
+  - generic [ref=e99]:
+    - text: 还没有账号？
+    - link "立即注册" [ref=e100] [cursor=pointer]:
+      - /url: /register

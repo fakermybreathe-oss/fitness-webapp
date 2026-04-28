@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <rect width="400" height="400" fill="white"/>
+  <!-- Vertical frame posts -->
+  <rect x="80" y="50" width="25" height="300" rx="4" fill="#374151"/>
+  <rect x="295" y="50" width="25" height="300" rx="4" fill="#374151"/>
+  <!-- Top frame -->
+  <rect x="80" y="50" width="240" height="20" rx="4" fill="#4B5563"/>
+  <!-- Guided bar -->
+  <rect x="120" y="180" width="160" height="8" rx="2" fill="#E5E7EB"/>
+  <rect x="100" y="175" width="30" height="18" rx="4" fill="#4B5563"/>
+  <rect x="270" y="175" width="30" height="18" rx="4" fill="#4B5563"/>
+  <!-- Safety stops -->
+  <rect x="85" y="250" width="15" height="10" rx="2" fill="#9CA3AF"/>
+  <rect x="300" y="250" width="15" height="10" rx="2" fill="#9CA3AF"/>
+  <rect x="85" y="150" width="15" height="10" rx="2" fill="#9CA3AF"/>
+  <rect x="300" y="150" width="15" height="10" rx="2" fill="#9CA3AF"/>
+  <text x="200" y="370" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#374151">史密斯机</text>
+</svg>

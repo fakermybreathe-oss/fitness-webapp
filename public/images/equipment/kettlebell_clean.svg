@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <rect width="400" height="400" fill="white"/>
+  <!-- Kettlebell body -->
+  <ellipse cx="200" cy="200" rx="80" ry="90" fill="#4B5563"/>
+  <ellipse cx="200" cy="210" rx="60" ry="70" fill="#6B7280"/>
+  <!-- Handle -->
+  <path d="M140 120 Q140 80 200 80 Q260 80 260 120" stroke="#374151" stroke-width="25" fill="none" stroke-linecap="round"/>
+  <path d="M145 120 Q145 85 200 85 Q255 85 255 120" stroke="#4B5563" stroke-width="18" fill="none" stroke-linecap="round"/>
+  <!-- Weight indicator -->
+  <ellipse cx="200" cy="230" rx="35" ry="30" fill="#9CA3AF"/>
+  <text x="200" y="370" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#374151">壶铃</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <rect width="400" height="400" fill="white"/>
+  <!-- Left dumbbell -->
+  <g transform="translate(120, 200)">
+    <rect x="-30" y="-60" width="60" height="120" rx="8" fill="#4B5563"/>
+    <rect x="-12" y="-75" width="24" height="20" rx="4" fill="#6B7280"/>
+    <rect x="-12" y="55" width="24" height="20" rx="4" fill="#6B7280"/>
+  </g>
+  <!-- Right dumbbell -->
+  <g transform="translate(280, 200)">
+    <rect x="-30" y="-60" width="60" height="120" rx="8" fill="#4B5563"/>
+    <rect x="-12" y="-75" width="24" height="20" rx="4" fill="#6B7280"/>
+    <rect x="-12" y="55" width="24" height="20" rx="4" fill="#6B7280"/>
+  </g>
+  <text x="200" y="370" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#374151">哑铃</text>
+</svg>

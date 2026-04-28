@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <rect width="400" height="400" fill="white"/>
+  <!-- Base frame -->
+  <rect x="100" y="320" width="200" height="15" rx="4" fill="#374151"/>
+  <!-- Shoulder pads -->
+  <rect x="120" y="100" width="160" height="50" rx="8" fill="#4B5563"/>
+  <!-- Foot platform raised -->
+  <rect x="140" y="280" width="120" height="20" rx="4" fill="#6B7280"/>
+  <!-- Weight stack -->
+  <rect x="320" y="80" width="50" height="240" rx="4" fill="#E5E7EB"/>
+  <rect x="325" y="110" width="40" height="200" rx="2" fill="#9CA3AF"/>
+  <!-- Foot edge line -->
+  <line x1="140" y1="295" x2="260" y2="295" stroke="#374151" stroke-width="2"/>
+  <text x="200" y="370" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#374151">提踵机</text>
+</svg>

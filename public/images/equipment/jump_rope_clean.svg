@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <rect width="400" height="400" fill="white"/>
+  <!-- Left handle -->
+  <rect x="80" y="120" width="50" height="20" rx="8" fill="#4B5563"/>
+  <!-- Rope -->
+  <path d="M130 130 Q140 180 130 230 Q120 280 130 330" stroke="#E5E7EB" stroke-width="10" fill="none"/>
+  <!-- Right handle -->
+  <rect x="270" y="120" width="50" height="20" rx="8" fill="#4B5563"/>
+  <path d="M270 130 Q260 180 270 230 Q280 280 270 330" stroke="#E5E7EB" stroke-width="10" fill="none"/>
+  <!-- Rope texture lines -->
+  <line x1="125" y1="150" x2="135" y2="150" stroke="#9CA3AF" stroke-width="2"/>
+  <line x1="125" y1="200" x2="135" y2="200" stroke="#9CA3AF" stroke-width="2"/>
+  <line x1="265" y1="150" x2="275" y2="150" stroke="#9CA3AF" stroke-width="2"/>
+  <line x1="265" y1="200" x2="275" y2="200" stroke="#9CA3AF" stroke-width="2"/>
+  <text x="200" y="370" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#374151">跳绳</text>
+</svg>

@@ -1,0 +1,7 @@
+- generic [ref=e108]:
+  - img [ref=e109]
+  - heading "欢迎，testuser！" [level=2] [ref=e112]
+  - paragraph [ref=e113]: 完成身体数据录入，获取专属健身计划
+  - link "填写身体数据" [ref=e114] [cursor=pointer]:
+    - /url: /body-data
+    - button "填写身体数据" [ref=e115]

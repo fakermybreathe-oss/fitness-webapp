@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <rect width="400" height="400" fill="white"/>
+  <!-- Seat -->
+  <rect x="120" y="280" width="160" height="30" rx="6" fill="#6B7280"/>
+  <!-- Sliding seat rail -->
+  <rect x="100" y="310" width="200" height="10" rx="2" fill="#E5E7EB"/>
+  <!-- Foot pads -->
+  <rect x="80" y="260" width="80" height="50" rx="8" fill="#4B5563"/>
+  <rect x="240" y="260" width="80" height="50" rx="8" fill="#4B5563"/>
+  <!-- Handle -->
+  <rect x="170" y="120" width="60" height="20" rx="6" fill="#9CA3AF"/>
+  <!-- Chain/cable -->
+  <path d="M200 140 L200 200 L120 240" stroke="#374151" stroke-width="3" fill="none"/>
+  <!-- Flywheel housing -->
+  <ellipse cx="200" cy="80" rx="70" ry="50" fill="#374151"/>
+  <ellipse cx="200" cy="80" rx="50" ry="35" fill="#6B7280"/>
+  <text x="200" y="370" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#374151">划船机</text>
+</svg>

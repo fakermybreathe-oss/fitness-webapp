@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <rect width="400" height="400" fill="white"/>
+  <!-- Rack frame -->
+  <rect x="70" y="80" width="20" height="260" rx="4" fill="#4B5563"/>
+  <rect x="310" y="80" width="20" height="260" rx="4" fill="#4B5563"/>
+  <!-- Cross bar -->
+  <rect x="70" y="80" width="260" height="15" rx="3" fill="#6B7280"/>
+  <!-- Safety pins -->
+  <rect x="85" y="220" width="12" height="80" rx="2" fill="#9CA3AF"/>
+  <rect x="303" y="220" width="12" height="80" rx="2" fill="#9CA3AF"/>
+  <!-- Barbell -->
+  <rect x="90" y="140" width="220" height="12" rx="3" fill="#374151"/>
+  <rect x="100" y="125" width="20" height="40" rx="3" fill="#4B5563"/>
+  <rect x="280" y="125" width="20" height="40" rx="3" fill="#4B5563"/>
+  <text x="200" y="370" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#374151">深蹲架</text>
+</svg>

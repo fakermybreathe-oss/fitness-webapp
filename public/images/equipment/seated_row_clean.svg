@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <rect width="400" height="400" fill="white"/>
+  <!-- Seat -->
+  <rect x="100" y="200" width="200" height="35" rx="8" fill="#6B7280"/>
+  <!-- Back pad -->
+  <rect x="80" y="100" width="60" height="110" rx="10" fill="#4B5563"/>
+  <!-- Foot platform -->
+  <rect x="180" y="280" width="120" height="40" rx="6" fill="#9CA3AF"/>
+  <!-- Cable and pulley -->
+  <circle cx="150" cy="180" r="20" fill="#374151"/>
+  <circle cx="150" cy="180" r="10" fill="#6B7280"/>
+  <path d="M150 200 L150 260 L250 260" stroke="#E5E7EB" stroke-width="4" fill="none"/>
+  <!-- Handle -->
+  <rect x="240" y="250" width="30" height="15" rx="6" fill="#4B5563"/>
+  <!-- Weight stack -->
+  <rect x="320" y="100" width="50" height="180" rx="4" fill="#E5E7EB"/>
+  <rect x="325" y="130" width="40" height="140" rx="2" fill="#9CA3AF"/>
+  <text x="200" y="370" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#374151">坐姿划船机</text>
+</svg>

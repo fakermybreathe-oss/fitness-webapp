@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <rect width="400" height="400" fill="white"/>
+  <!-- Seat -->
+  <rect x="120" y="200" width="160" height="30" rx="6" fill="#6B7280"/>
+  <!-- Back pad -->
+  <rect x="100" y="80" width="200" height="130" rx="12" fill="#4B5563"/>
+  <!-- Leg pad -->
+  <rect x="200" y="240" width="80" height="60" rx="8" fill="#9CA3AF"/>
+  <!-- Pivot arm -->
+  <rect x="280" y="260" width="15" height="80" rx="3" fill="#374151"/>
+  <!-- Weight stack -->
+  <rect x="310" y="100" width="50" height="160" rx="4" fill="#E5E7EB"/>
+  <rect x="315" y="130" width="40" height="120" rx="2" fill="#9CA3AF"/>
+  <text x="200" y="370" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#374151">腿弯举机</text>
+</svg>

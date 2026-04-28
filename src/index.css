@@ -1,0 +1,74 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-primary: var(--color-sky-400);
+  --color-brand-secondary: var(--color-sky-500);
+  --color-app-bg: var(--color-stone-50);
+  --color-card-bg: #ffffff;
+  
+  --font-display: "Outfit", "Geist", sans-serif;
+  --font-body: "Satoshi", "Inter", sans-serif;
+
+  --shadow-premium: 0 20px 40px -15px rgba(0, 0, 0, 0.05);
+  --shadow-subtle: 0 1px 3px rgba(0, 0, 0, 0.02);
+}
+
+:root {
+  background-color: var(--color-app-bg);
+  color: var(--color-slate-900);
+  font-family: var(--font-body);
+}
+
+body {
+  margin: 0;
+  min-height: 100dvh;
+  overflow-x: hidden;
+  background-color: var(--color-app-bg);
+}
+
+#root {
+  min-height: 100dvh;
+}
+
+/* 移动端容器模拟器 (仅在桌面端可见) */
+.mobile-wrapper {
+  display: flex;
+  justify-content: center;
+  min-height: 100dvh;
+  background-color: var(--color-zinc-100);
+}
+
+.mobile-container {
+  width: 100%;
+  max-width: 430px;
+  min-height: 100dvh;
+  background-color: var(--color-app-bg);
+  position: relative;
+  box-shadow: 0 0 50px rgba(0, 0, 0, 0.05);
+  display: flex;
+  flex-direction: column;
+}
+
+/* 玻璃拟态卡片 */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  box-shadow: var(--shadow-premium);
+}
+
+/* 隐藏滚动条但保留功能 */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+
+/* 针对 3D 蓝图图片的极简白底化滤镜 */
+.blueprint-bleach {
+  filter: invert(1) hue-rotate(180deg) brightness(1.2) contrast(1.1) grayscale(1);
+  mix-blend-mode: multiply;
+}

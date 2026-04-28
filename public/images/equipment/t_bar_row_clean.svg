@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <rect width="400" height="400" fill="white"/>
+  <!-- Base platform -->
+  <rect x="100" y="300" width="200" height="20" rx="4" fill="#374151"/>
+  <!-- T-bar pivot -->
+  <rect x="190" y="120" width="20" height="180" rx="3" fill="#4B5563"/>
+  <!-- Barbell -->
+  <rect x="80" y="100" width="240" height="12" rx="4" fill="#6B7280"/>
+  <!-- Handle grip -->
+  <rect x="170" y="85" width="60" height="30" rx="6" fill="#9CA3AF"/>
+  <!-- Weight plates -->
+  <circle cx="95" cy="106" r="35" fill="#E5E7EB"/>
+  <circle cx="95" cy="106" r="25" fill="#9CA3AF"/>
+  <circle cx="305" cy="106" r="35" fill="#E5E7EB"/>
+  <circle cx="305" cy="106" r="25" fill="#9CA3AF"/>
+  <text x="200" y="370" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#374151">T型杠划船</text>
+</svg>

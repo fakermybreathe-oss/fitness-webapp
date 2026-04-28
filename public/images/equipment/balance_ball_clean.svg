@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <rect width="400" height="400" fill="white"/>
+  <!-- Ball body -->
+  <ellipse cx="200" cy="200" rx="120" ry="120" fill="#6B7280"/>
+  <!-- Ball shine -->
+  <ellipse cx="160" cy="160" rx="40" ry="35" fill="#9CA3AF"/>
+  <!-- Ball shadow -->
+  <ellipse cx="200" cy="320" rx="100" ry="20" fill="#E5E7EB"/>
+  <!-- Texture lines -->
+  <path d="M100 200 Q200 150 300 200" stroke="#4B5563" stroke-width="2" fill="none"/>
+  <path d="M100 250 Q200 300 300 250" stroke="#4B5563" stroke-width="2" fill="none"/>
+  <text x="200" y="370" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#374151">平衡球</text>
+</svg>
